@@ -1,0 +1,40 @@
++------------------------------+
+| Red Hero Section             |
+| Coca-Cola Bottle             |
+| White Heading                |
+| White Paragraph              |
+| White Button                 |
++------------------------------+
+
+| Light Gray Background        |
+| Quote Section                |
++------------------------------+
+
+| White Background             |
+| Features/Cards               |
++------------------------------+
+
+| Dark Footer                  |
+
+
+background: #F40009;
+heading: #FFFFFF;
+body text: #F5F5F5;
+section background: #FFFFFF;
+footer: #1A1A1A;
+
+--red: #F40009;
+--off-white: #FAFAFA;
+--dark: #121212;
+--gray: #6B7280;
+
+--coke-red: #F40009;
+--gold: #D4AF37;
+--white: #FFFFFF;
+--charcoal: #222222;
+
+--primary-red: #F40009;
+--dark-red: #B30000;
+--white: #FFFFFF;
+--black: #1A1A1A;
+--light-gray: #F5F5F5;
